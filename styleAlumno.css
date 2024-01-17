@@ -6,4 +6,10 @@ h1{
 p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
+    text-align: center;
 }
+img {
+    width: 300px; 
+    height: 275px;
+    border: 1px solid black;
+  }
